@@ -10,3 +10,5 @@ The costly shipping type is AirCargo
 The cheaper shipping type is Seacargo
 # Trident
 The safer shipping type is Land Cargo
+# Trident
+The faster shipping type is Aircargo
